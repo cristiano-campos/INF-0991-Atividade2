@@ -6,5 +6,7 @@ namespace INF099
         {
             Console.WriteLine("Atividade 2");
             Console.WriteLine("alterações utilizando o VS code");
+            Console.WriteLine("Adicionando tag v1.0");
         }
+    }
 }
