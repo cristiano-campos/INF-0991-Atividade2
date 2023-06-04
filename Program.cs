@@ -1,0 +1,10 @@
+namespace INF099
+{
+    public class HelloWorld
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Atividade 2");
+            Console.WriteLine("alterações utilizando o VS code");
+        }
+}
