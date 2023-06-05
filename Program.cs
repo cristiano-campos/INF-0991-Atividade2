@@ -8,6 +8,7 @@ namespace INF099
             Console.WriteLine("alterações utilizando o VS code");
             Console.WriteLine("Adicionando tag v1.0");
             Console.WriteLine("Adiciando tag v2.0"); 
+            Console.WriteLine("Adicionando tag v3.0");
         }
     }
 }
