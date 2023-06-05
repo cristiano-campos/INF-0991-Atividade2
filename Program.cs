@@ -9,6 +9,7 @@ namespace INF099
             Console.WriteLine("Adicionando tag v1.0");
             Console.WriteLine("Adiciando tag v2.0"); 
             Console.WriteLine("Adicionando tag v3.0");
+            Console.WriteLine("Adicionando tag v3.1");
         }
     }
 }
